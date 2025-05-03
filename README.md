@@ -31,7 +31,7 @@ Configuration de l'environnement
     cp .env.example .env
     php artisan key:generate
 
-Modification importante dans .env:
+Modification importante dans .env (déjà fait dans le fichier) :
 
     SESSION_DRIVER=file  # Modification depuis 'database' pour éviter la configuration DB
     APP_URL=http://localhost:8000
