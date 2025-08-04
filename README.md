@@ -253,11 +253,15 @@ Problèmes de routing:
 
 ## Page d'accueil
 
-![Page d'accueil](capturesD'ecrans/accueil.png)
+![Page d'accueil](capturesD'ecrans/pageAccueil/accueil.png)
 
 ## Menu Liste Articles
 
-![menuListeArtcles](capturesD'ecrans/menuListeLivres_1.png)
+![menuListeArtcles](capturesD'ecrans/Article/menuArticles.png)
+
+## Article
+
+![Artcle](capturesD'ecrans/Article/Article.png)
 
 📝 Conclusion
 
