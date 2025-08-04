@@ -249,6 +249,16 @@ Problèmes de routing:
 
     php artisan route:clear
 
+# Captures d'écrans 
+
+## Page d'accueil
+
+![Page d'accueil](capturesD'ecrans/accueil.png)
+
+## Menu Liste Articles
+
+![menuListeArtcles](capturesD'ecrans/menuListeLivres_1.png)
+
 📝 Conclusion
 
 Ce projet démontre avec succès:
